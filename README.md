@@ -17,6 +17,10 @@ Welcome to Kali-Native-Chat-App. This app, built with React Native, Expo, and Fi
 3. **Chat Screen**: Engage in conversations.
 4. **Home Screen**: Main screen of the application.
 
+![WhatsApp Image 2023-12-17 at 19 45 22 (1)](https://github.com/ELFrancisco4/kali-native-chat-app/assets/72754647/d08fe8e0-6538-4ffd-a496-2f7307a37c08)
+![WhatsApp Image 2023-12-17 at 19 45 22](https://github.com/ELFrancisco4/kali-native-chat-app/assets/72754647/e559fd88-e5e9-497f-8154-6826314cb491)
+
+
 ## How It Works
 
 - **User Authentication**: Users can sign up or log in using their email.
